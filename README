@@ -1,0 +1,4 @@
+# I'm doing you a favor
+
+This is a helper/safety-net in case you try to `pip install anisble` instead
+of `ansible`.
